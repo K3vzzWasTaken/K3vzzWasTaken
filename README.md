@@ -10,7 +10,7 @@
   <a href="https://www.youtube.com/channel/UCOgoQl_45HbU4aXzn8SogwQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="k3vzz.com">
+  <a href="https://k3vzz.com">
     <img src="https://img.shields.io/badge/k3vzz.com-blue?style=for-the-badge" alt="Webpage Badge"/>
   </a>
 </div>
