@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </div>
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kevindaguilar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,5 +17,5 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif" width="400"/>
 </div>
